@@ -1,0 +1,9 @@
+D:\nam4\framework(C#)\MXN\BUS_MXN\bin\Debug\BUS_MXN.dll
+D:\nam4\framework(C#)\MXN\BUS_MXN\bin\Debug\BUS_MXN.pdb
+D:\nam4\framework(C#)\MXN\BUS_MXN\bin\Debug\DAL_MXN.dll
+D:\nam4\framework(C#)\MXN\BUS_MXN\bin\Debug\DAL_MXN.pdb
+D:\nam4\framework(C#)\MXN\BUS_MXN\obj\Debug\BUS_MXN.csproj.AssemblyReference.cache
+D:\nam4\framework(C#)\MXN\BUS_MXN\obj\Debug\BUS_MXN.csproj.CoreCompileInputs.cache
+D:\nam4\framework(C#)\MXN\BUS_MXN\obj\Debug\BUS_MXN.csproj.CopyComplete
+D:\nam4\framework(C#)\MXN\BUS_MXN\obj\Debug\BUS_MXN.dll
+D:\nam4\framework(C#)\MXN\BUS_MXN\obj\Debug\BUS_MXN.pdb

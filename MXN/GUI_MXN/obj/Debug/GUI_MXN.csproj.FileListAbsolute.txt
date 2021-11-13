@@ -1,0 +1,16 @@
+D:\nam4\framework(C#)\MXN\GUI_MXN\bin\Debug\GUI_MXN.exe.config
+D:\nam4\framework(C#)\MXN\GUI_MXN\bin\Debug\GUI_MXN.exe
+D:\nam4\framework(C#)\MXN\GUI_MXN\bin\Debug\GUI_MXN.pdb
+D:\nam4\framework(C#)\MXN\GUI_MXN\bin\Debug\BUS_MXN.dll
+D:\nam4\framework(C#)\MXN\GUI_MXN\bin\Debug\DAL_MXN.dll
+D:\nam4\framework(C#)\MXN\GUI_MXN\bin\Debug\BUS_MXN.pdb
+D:\nam4\framework(C#)\MXN\GUI_MXN\bin\Debug\DAL_MXN.pdb
+D:\nam4\framework(C#)\MXN\GUI_MXN\obj\Debug\GUI_MXN.csproj.AssemblyReference.cache
+D:\nam4\framework(C#)\MXN\GUI_MXN\obj\Debug\GUI_MXN.GUI_User.resources
+D:\nam4\framework(C#)\MXN\GUI_MXN\obj\Debug\GUI_MXN.Properties.Resources.resources
+D:\nam4\framework(C#)\MXN\GUI_MXN\obj\Debug\GUI_MXN.csproj.GenerateResource.cache
+D:\nam4\framework(C#)\MXN\GUI_MXN\obj\Debug\GUI_MXN.csproj.CoreCompileInputs.cache
+D:\nam4\framework(C#)\MXN\GUI_MXN\obj\Debug\GUI_MXN.csproj.CopyComplete
+D:\nam4\framework(C#)\MXN\GUI_MXN\obj\Debug\GUI_MXN.exe
+D:\nam4\framework(C#)\MXN\GUI_MXN\obj\Debug\GUI_MXN.pdb
+D:\nam4\framework(C#)\MXN\GUI_MXN\obj\Debug\GUI_MXN.frmLogin.resources

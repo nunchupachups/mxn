@@ -1,0 +1,6 @@
+D:\nam4\framework(C#)\MXN\DAL_MXN\bin\Debug\DAL_MXN.dll
+D:\nam4\framework(C#)\MXN\DAL_MXN\bin\Debug\DAL_MXN.pdb
+D:\nam4\framework(C#)\MXN\DAL_MXN\obj\Debug\DAL_MXN.csproj.AssemblyReference.cache
+D:\nam4\framework(C#)\MXN\DAL_MXN\obj\Debug\DAL_MXN.csproj.CoreCompileInputs.cache
+D:\nam4\framework(C#)\MXN\DAL_MXN\obj\Debug\DAL_MXN.dll
+D:\nam4\framework(C#)\MXN\DAL_MXN\obj\Debug\DAL_MXN.pdb
